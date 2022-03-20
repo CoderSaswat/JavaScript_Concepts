@@ -13,7 +13,7 @@
 /**** Section 3👉 values and variables in JavaScript ****/
 
 
-// var myName = 'saswat kumar panda';
+// var myName = 'vinod bahadur thapa';
 // var myAge = 26;
 
 // console.log(myage);
@@ -23,11 +23,11 @@
 
 
 // Naming Practice
-// var _myName = "saswat";
-// var 1myName = "panda";
-// var _1my__Name = "kumar";
-// var $myName = "panda technical";
-// var myNaem% = "panda technical";
+// var _myName = "vinod";
+// var 1myName = "thapa";
+// var _1my__Name = "bahadur";
+// var $myName = "thapa technical";
+// var myNaem% = "thapa technical";
 
 // console.log(myNaem%);
 
@@ -35,7 +35,7 @@
 
 // // **********************************************************************
 
-// // 👉 // 🤩 SUBSCRIBE TO panda TECHNICAL YOUTUBE CHANNEL 🤩
+// // 👉 // 🤩 SUBSCRIBE TO THAPA TECHNICAL YOUTUBE CHANNEL 🤩
 //  👉 // 🤩  https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA
 
 // // **********************************************************************
@@ -45,17 +45,17 @@
 /**** Section 4👉 Data Types in JavaScript ****/
 
 
-// var myName = "saswat panda";
+// var myName = "vinod thapa";
 // console.log(myName);
 
 // var myAge = 26;
 // console.log(myAge);
 
-// var iAmpandas = false;
-// console.log(iAmpandas);
+// var iAmThapas = false;
+// console.log(iAmThapas);
 
 // // typeof operator 
-// console.log(typeof(iAmpandas));
+// console.log(typeof(iAmThapas));
 
 
 // DataTypes Practice
@@ -68,14 +68,14 @@
 // " " + " "
 // console.log( " " + 0);
 // " " + 0
-// "saswat" - "panda"
+// "vinod" - "thapa"
 // true + true
 // true + false
 // false + true
 // false - true
 
 
-// console.log("saswat" - "panda");
+// console.log("vinod" - "thapa");
 
 
 
@@ -104,7 +104,7 @@
 
 
 // var myPhoneNumber = 9876543210;
-// var myName = "panda technical";
+// var myName = "thapa technical";
 
 // console.log(isNaN(myPhoneNumber));
 // console.log(isNaN(myName));
@@ -292,7 +292,7 @@
 
 // // **********************************************************************
 
-// // 👉 // 🤩 SUBSCRIBE TO panda TECHNICAL YOUTUBE CHANNEL 🤩
+// // 👉 // 🤩 SUBSCRIBE TO THAPA TECHNICAL YOUTUBE CHANNEL 🤩
 //  👉 // 🤩  https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA
 
 // // **********************************************************************
@@ -308,11 +308,11 @@
 
 // console.log("hello " +  "world");
 
-// var myName = "saswat";
+// var myName = "vinod";
 
-// console.log(myName + " panda");
-// console.log(myName + " kumar");
-// console.log(myName + " kumar panda");
+// console.log(myName + " thapa");
+// console.log(myName + " bahadur");
+// console.log(myName + " bahadur Thapa");
 
 
 
@@ -332,7 +332,7 @@
 
 
 // sol 2:  ✔
-// console.log(5 + "panda");
+// console.log(5 + "thapa");
 
 // sol 3: ✔ 
 
@@ -634,7 +634,7 @@
 
 // // **********************************************************************
 
-// // 👉 // 🤩 SUBSCRIBE TO panda TECHNICAL YOUTUBE CHANNEL 🤩
+// // 👉 // 🤩 SUBSCRIBE TO THAPA TECHNICAL YOUTUBE CHANNEL 🤩
 //  👉 // 🤩  https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA
 
 // // **********************************************************************
@@ -723,33 +723,33 @@
 
 // 1️⃣ LET VS CONST  vs  VAR
 
-// var myName = "panda technical";
+// var myName = "thapa technical";
 // console.log(myName);
 
-// myName = "saswat panda";
+// myName = "vinod thapa";
 // console.log(myName);
 
-// let myName = "panda technical";
+// let myName = "thapa technical";
 // console.log(myName);
 
-// myName = "saswat panda";
+// myName = "vinod thapa";
 // console.log(myName);
 
 
-// const myName = "panda technical";
+// const myName = "thapa technical";
 // console.log(myName);
 
-// myName = "saswat panda";
+// myName = "vinod thapa";
 // console.log(myName);
 
 
 
 // function biodata() {
-//   const myFirstName = "saswat";
+//   const myFirstName = "Vinod";
 //   console.log(myFirstName);
 
 //   if(true){
-//     const myLastName = "panda";
+//     const myLastName = "thapa";
 //   }
 
 //   // console.log('innerOuter ' + myLastName);
@@ -808,7 +808,7 @@
 
   //  ➡ Array Destructuring  🏁
 
-  // const myBioData = ['saswat', 'panda', 26];
+  // const myBioData = ['vinod', 'thapa', 26];
 
   // let myFName = myBioData[0];
   // let myLName = myBioData[1];
@@ -826,8 +826,8 @@
 
   // ➡ Object destructuring 🏁
   // const myBioData = {
-  //   myFname : 'saswat',
-  //   myLname : 'panda',
+  //   myFname : 'vinod',
+  //   myLname : 'thapa',
   //   myAge : 26
   // }
 
@@ -845,7 +845,7 @@
 
 // ➡ we can now use Dynamic Properties 
 
-      // let myName = "saswat";
+      // let myName = "vinod";
       // const myBio = {
       //   [myName] : "hello how are you?",
       //   [20 + 6] : "is my age"
@@ -855,7 +855,7 @@
 
   // ➡ no need to write key and value, if both are same 
 
-  // let myName = "saswat panda";
+  // let myName = "vinod thapa";
   // let myAge = 26;
 
   // const myBio = {myName,myAge}
@@ -923,7 +923,7 @@
 // Object.values()
 // Object.entries()
 
-// const message = "my name is saswat";
+// const message = "my name is vinod";
 // console.log(message);
 // console.log(message.padStart(5));
 // console.log(message.padEnd(10));
@@ -1011,7 +1011,7 @@
 // if we want to change the data 
 
 
-// var myFriends = ['saswat','ramesh','arjun','vishal'];
+// var myFriends = ['vinod','ramesh','arjun','vishal'];
 
 // console.log(myFriends[myFriends.length - 1]);
 
@@ -1021,14 +1021,14 @@
 
 // we use for loop to navigate 
 
-// var myFriends = ['saswat','ramesh','arjun','vishal'];
+// var myFriends = ['vinod','ramesh','arjun','vishal'];
 // for(var i=0; i<myFriends.length; i++){
 //   console.log(myFriends[i]);
 // }
 
 // After ES6 we have for..in and for..of loop too 
 
-// var myFriends = ['saswat','ramesh','arjun','vishal'];
+// var myFriends = ['vinod','ramesh','arjun','vishal'];
 
 // for(let elements in myFriends){
 //   console.log(elements);
@@ -1041,7 +1041,7 @@
 // Array.prototype.forEach() 🙋‍♂️
 // Calls a function for each element in the array.
 
-// var myFriends = ['saswat','ramesh','arjun','vishal'];
+// var myFriends = ['vinod','ramesh','arjun','vishal'];
 
 // myFriends.forEach(function(element, index, array) {
 //       console.log(element + " index : " +
@@ -1064,9 +1064,9 @@
 // to an element, or -1 if none is found. It search the element from the 
 // 0th index number 
 
-// var myFriendNames = ["saswat","kumar","panda","pandatechnical","panda"];
+// var myFriendNames = ["vinod","bahadur","thapa","thapatechnical","thapa"];
 
-// console.log(myFriendNames.indexOf("panda", 3));
+// console.log(myFriendNames.indexOf("Thapa", 3));
 
 
 
@@ -1076,9 +1076,9 @@
 // Returns the last (greatest) index of an element within the array equal 
 // to an element, or -1 if none is found. It search the element last to first
 
-// var myFriendNames = ["saswat","kumar","panda","pandatechnical","panda"];
+// var myFriendNames = ["vinod","bahadur","thapa","thapatechnical","thapa"];
 
-// console.log(myFriendNames.lastIndexOf("panda",3));
+// console.log(myFriendNames.lastIndexOf("Thapa",3));
 
 
 
@@ -1090,9 +1090,9 @@
 // Determines whether the array contains a value, 
 // returning true or false as appropriate.
 
-// var myFriendNames = ["saswat","kumar","panda","pandatechnical"];
+// var myFriendNames = ["vinod","bahadur","thapa","thapatechnical"];
 
-// console.log(myFriendNames.includes("panda"));
+// console.log(myFriendNames.includes("thapa"));
 
 
 
@@ -1121,7 +1121,7 @@
 
 // // **********************************************************************
 
-// // 👉 // 🤩 SUBSCRIBE TO panda TECHNICAL YOUTUBE CHANNEL 🤩
+// // 👉 // 🤩 SUBSCRIBE TO THAPA TECHNICAL YOUTUBE CHANNEL 🤩
 //  👉 // 🤩  https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA
 
 // // **********************************************************************
@@ -1400,7 +1400,7 @@
 
 // // **********************************************************************
 
-// // 👉 // 🤩 SUBSCRIBE TO panda TECHNICAL YOUTUBE CHANNEL 🤩
+// // 👉 // 🤩 SUBSCRIBE TO THAPA TECHNICAL YOUTUBE CHANNEL 🤩
 //  👉 // 🤩  https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA
 
 // // **********************************************************************
@@ -1507,11 +1507,11 @@
 // Strings can be created as primitives, 
 // from string literals, or as objects, using the String() constructor
 
-// let myName = "saswat panda";
-// let myChannelName = 'saswat panda';
+// let myName = "vinod thapa";
+// let myChannelName = 'vinod thapa';
 
-// // let ytName = new String("panda Technical");
-// let ytName = 'panda technical';
+// // let ytName = new String("Thapa Technical");
+// let ytName = 'thapa technical';
 
 // console.log(myName);
 // console.log((ytName));
@@ -1522,7 +1522,7 @@
 // String.prototype.length 🙋‍♂️
 // Reflects the length of the string. 
 
-// let myName = "saswat panda";
+// let myName = "vinod thapa";
 // console.log(myName.length);
 
 
@@ -1552,7 +1552,7 @@
 // The indexOf() method returns the index of (the position of) the first
 //  occurrence of a specified text in a string
 
-// const myBioData =  'I am the panda Technical';
+// const myBioData =  'I am the thapa Technical';
 // console.log(myBioData.indexOf("t", 6));
 
 
@@ -1569,7 +1569,7 @@
 // // last occurrence of searchValue, or -1 if not found.
 
 
-// const myBioData =  'I am the panda Technical';
+// const myBioData =  'I am the thapa Technical';
 // console.log(myBioData.lastIndexOf("t", 6));
 
 
@@ -1591,7 +1591,7 @@
 // The search() method searches a string for a specified 
 // value and returns the position of the match
 
-// const myBioData =  'I am the panda Technical';
+// const myBioData =  'I am the thapa Technical';
 // let sData = myBioData.search("technical");
 // console.log(sData);
 
@@ -1693,9 +1693,9 @@
 // The replace() method replaces a specified value 
 // with another value in a string.
 
-// let myBioData = `I am saswat kumar panda saswat`;
+// let myBioData = `I am vinod bahadur thapa vinod`;
 
-// let repalceData = myBioData.replace('saswat','saswat');
+// let repalceData = myBioData.replace('Vinod','VINOD');
 // console.log(repalceData);
 // console.log(myBioData);
 
@@ -1706,7 +1706,7 @@
 // 2: By default, the replace() method replaces only 
 // the first match
 // 3:By default, the replace() method is case sensitive. 
-// Writing saswat (with upper-case) will not work
+// Writing VINOD (with upper-case) will not work
 
 
 
@@ -1792,7 +1792,7 @@
 
 //👉  Other useful methods 
 
-// let myName = "saswat panda";
+// let myName = "vinod tHapa";
 // console.log(myName.toUpperCase()); 
 // console.log(myName.toLowerCase());
 
@@ -1805,8 +1805,8 @@
 // The concat() Method 🙋‍♂️
 // concat() joins two or more strings
 
-// let fName = "saswat"
-// let lName = "panda"
+// let fName = "vinod"
+// let lName = "thapa"
 
 // console.log(fName + lName );
 // console.log(`${fName} ${lName}`);
@@ -2120,7 +2120,7 @@
 
 // // **********************************************************************
 
-// // 👉 // 🤩 SUBSCRIBE TO panda TECHNICAL YOUTUBE CHANNEL 🤩
+// // 👉 // 🤩 SUBSCRIBE TO THAPA TECHNICAL YOUTUBE CHANNEL 🤩
 //  👉 // 🤩  https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA
 
 // // **********************************************************************
@@ -2195,8 +2195,8 @@
 // but represent pure browser methods of communicating with the user.
 
 // alert(location.href); // shows current URL
-// if (confirm("Want to Visit pandaTechnical?")) {
-//   location.href = "https://www.youtube.com/pandatechnical"; // redirect the browser to another URL
+// if (confirm("Want to Visit ThapaTechnical?")) {
+//   location.href = "https://www.youtube.com/thapatechnical"; // redirect the browser to another URL
 // }
 
 
@@ -2369,7 +2369,7 @@
 // 1st way 
 
   // let bioData = { 
-  //     myName : "pandatechnical",
+  //     myName : "thapatechnical",
   //     myAge : 26,
   //     getData : function(){
   //       console.log(`My name is ${bioData.myName} and my age is ${bioData.myAge}`);
@@ -2381,7 +2381,7 @@
 // 2nd way no need to write functions as well after es6
 
 // let bioData = { 
-//   myName : "pandatechnical",
+//   myName : "thapatechnical",
 //   myAge : 26,
 //   getData (){
 //     console.log(`My name is ${bioData.myName} and my age is ${bioData.myAge}`);
@@ -2396,8 +2396,8 @@
 
 // let bioData = { 
 //   myName : {
-//     realName : "saswat",
-//     channelName : "panda technical" 
+//     realName : "vinod",
+//     channelName : "thapa technical" 
 //   },
 //   myAge : 26,
 //   getData (){
@@ -2433,7 +2433,7 @@
 
 // // ex 3 
 
-// var myNames = 'saswat';
+// var myNames = 'vinod';
 // function myName() {
 //     console.log(this.myNames);
 // }
@@ -2466,8 +2466,8 @@
 
 // let bioData = {
 //     myName : {
-//         realName : "saswat panda",
-//         channelName : 'panda technical'
+//         realName : "vinod thapa",
+//         channelName : 'thapa technical'
 //     },
 //     // things to remember is that the myName is the key and the object is act like a value 
 //     myAge : 26,
@@ -2616,13 +2616,13 @@
 // For Example 👇
 // console.log(myName);
 // let myName;
-// myName = "panda";
+// myName = "thapa";
 
 // // How it will be in output during creation phase 
 
 // 1: var myName = undefined;
 // 2: console.log(myName);
-// 3: myName = "panda";
+// 3: myName = "thapa";
 
 
 // //😲 In ES2015 (a.k.a. ES6), hoisting is avoided by using the let keyword 
@@ -2704,7 +2704,7 @@
 
 // "use strict"
 
-// let x = "saswat";
+// let x = "vinod";
 // console.log(x);
 
 
@@ -2722,7 +2722,7 @@
 
 // // **********************************************************************
 
-// // 👉 // 🤩 SUBSCRIBE TO panda TECHNICAL YOUTUBE CHANNEL 🤩
+// // 👉 // 🤩 SUBSCRIBE TO THAPA TECHNICAL YOUTUBE CHANNEL 🤩
 //  👉 // 🤩  https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA
 
 // // **********************************************************************
